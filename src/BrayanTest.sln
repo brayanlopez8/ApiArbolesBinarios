@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrayanTechnicalTest.API", "BrayanTechnicalTest.API\BrayanTechnicalTest.API.csproj", "{5A334544-ABFE-49B0-B8F7-738351958F9D}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrayanTechnicalTest.ENT", "BrayanTechnicalTest.ENT\BrayanTechnicalTest.ENT.csproj", "{EBDBF0DF-C2E2-4DF5-B055-439C9CACDA5C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrayanTechnicalTest.BLL", "BrayanTechnicalTest.BLL\BrayanTechnicalTest.BLL.csproj", "{352496DB-354D-413F-AC28-F89729CEC88F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrayanTechnicalTest.API", "BrayanTechnicalTest.API\BrayanTechnicalTest.API.csproj", "{5A334544-ABFE-49B0-B8F7-738351958F9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{57EE5050-6539-433B-997D-F64A50CACEC7}"
 EndProject
