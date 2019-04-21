@@ -26,7 +26,7 @@
 
 ### Step 2
 
-	Build or Rebuild the solution verifying that all the packages are downloaded correctly
+	Build or Rebuild the solution verifying that all the packages are downloaded correctly, If not, download the packages through the Nuget package Manager
 
 ### Step 3
 
