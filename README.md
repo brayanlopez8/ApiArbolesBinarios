@@ -16,34 +16,32 @@
 
 ### Setup
 
-> update and install this package first
-
 ### Step 1
 
 - **Option 1**
-    - ðŸ´ Fork this repo!
+    Fork this repo!
 
 - **Option 2**
-    - ðŸ‘¯ Clone this repo to your local machine using `https://github.com/brayanlopez8/ApiArbolesBinarios.git`
+    Clone this repo to your local machine using `https://github.com/brayanlopez8/ApiArbolesBinarios.git`
 
 ### Step 2
 
-- ðŸ”ƒ Build or Rebuild the solution verifying that all the packages are downloaded correctly
+	Build or Rebuild the solution verifying that all the packages are downloaded correctly
 
 ### Step 3
 
-- ðŸ”ƒ Verify that the project named as (BrayanTechnicalTest.API) is a startup project
+	Verify that the project named as (BrayanTechnicalTest.API) is a startup project
 
 ### Step 4
 
-- ðŸ”ƒ Run the application, by default you will start the Swagger interface which will allow you to consume the services.
+	Run the application, by default you will start the Swagger interface which will allow you to consume the services.
 
 ### Step 5
 
-- ðŸ”ƒ the api/get method will allow you to perform an API test.
+	The api/get method will allow you to perform an API test.
 
 ### Step 6
- The POST Api / CreateTree method will allow you to create binary trees by entering in the values field the following data as an example [70,49,84,37,54,78,85,22,40,51,76,80]  this method will return an object with the corresponding binary tree (object that will be used in the later method)
+	The POST Api / CreateTree method will allow you to create binary trees by entering in the values field the following data as an example [70,49,84,37,54,78,85,22,40,51,76,80]  this method will return an object with the corresponding binary tree (object that will be used in the later method)
 
  ### Step 7
-The POST / api/AncestroComun method receives three parameters, the first an object of type binary tree returned in the previous method and two integer values, when running the test the result will be the common ancestor closer to the two entered integer values.
+	The POST / api/AncestroComun method receives three parameters, the first an object of type binary tree returned in the previous method and two integer values, when running the test the result will be the common ancestor closer to the two entered integer values.
