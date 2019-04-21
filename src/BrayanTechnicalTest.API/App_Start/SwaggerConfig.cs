@@ -40,7 +40,7 @@ namespace BrayanTechnicalTest.API
                        .Contact(cc => cc
                        .Name("Brayan López")
                        .Email("brayanlopez8@gmail.com")
-                       .Url("www.linkedin.com/in/brayan-lópez-chaves-78823557"));
+                       .Url("http://www.linkedin.com/in/brayan-lópez-chaves-78823557"));
 
                         // If you want the output Swagger docs to be indented properly, enable the "PrettyPrint" option.
                         //
