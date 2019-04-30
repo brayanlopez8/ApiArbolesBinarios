@@ -7,6 +7,7 @@
 
 > Brayan López Technical Test
 >https://www.linkedin.com/in/brayan-l%C3%B3pez-chaves-78823557
+>https://techprofile.microsoft.com/es-es/brayanlopez8
 ## Observations
 
 - This project is developed with .Net Framework 4.7.1 (C#)
